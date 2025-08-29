@@ -43,7 +43,7 @@ int main() {
             }
             break;
     
-    defualt :
+    default :
     printf("\n Invalid choice! please try again.");
     
     }
