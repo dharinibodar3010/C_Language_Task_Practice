@@ -2,10 +2,8 @@
 
 int main()
 {
-    
    int mobilestock, laptopstock, desktopstock;
    int mobilepurchase, laptoppurchase, desktoppurchase;
-  
    
    // total stock available
    
@@ -47,6 +45,4 @@ int main()
    printf("\n %-10s %-15d %-15d %-15d", "Desktop",100, desktoppurchase, remainingdesktop);
    
    return 0;
-   
-    
 }
