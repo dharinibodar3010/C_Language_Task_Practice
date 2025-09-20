@@ -4,7 +4,7 @@ int main ()
 {
     int a = 7;
     
-    // unary operator
+    // unary decrement operator
     
     int c = a--; 
     
