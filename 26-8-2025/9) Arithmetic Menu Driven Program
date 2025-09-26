@@ -14,18 +14,18 @@ int main() {
     
     //Input Number
     printf("\n Enter two number : ");
-    scanf("%f %f", &a, &b);
+    scanf("%d %d", &a, &b);
     
     //Switch case break
     switch(choice) {
     case 1:
         result = a + b;
-        printf("\n Result = %f", result);
+        printf("\n Result = %d", result);
         break;
     
     case 2:
         result = a - b;
-        printf("\n Result = %f", result);
+        printf("\n Result = %d", result);
         break;
     
     case 3:
@@ -36,7 +36,7 @@ int main() {
     case 4:
         if(b != 0) {
             result = a / b;
-            printf("\n Result = %f", result);
+            printf("\n Result = %d", result);
             }
             else {
             printf("\n Error!, Division by zero not allowed");
