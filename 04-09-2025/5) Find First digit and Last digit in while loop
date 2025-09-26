@@ -5,7 +5,7 @@ int main()
     
     printf("enter any number : ");
     scanf("%d", &num);
-     \
+     
      last = num % 10;
      
      first = num;
