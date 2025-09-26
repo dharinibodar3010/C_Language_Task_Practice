@@ -24,7 +24,7 @@ int main () {
     totalmarks = (s1 + s2 + s3 + s4 + s5);
     percentage = (totalmarks/500.0)*100.0;
     
-    printf("\n Total Marks = %f", totalmarks);
+    printf("\n Total Marks = %d", totalmarks);
     printf("\n Percentage = %.2f%%", percentage);
     
     return 0;
