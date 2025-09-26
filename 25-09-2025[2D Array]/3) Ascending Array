@@ -9,7 +9,7 @@ int main()
     
     int arr[n];
     
-    printf("Enter one by ome elements: ");
+    printf("Enter one by one elements: ");
     
     for(i=0; i<n; i++)
     {
