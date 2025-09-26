@@ -8,11 +8,11 @@ int main()
     
     while(num>0)
     {
-        int reminder = num % 10;
+        int remainder = num % 10;
         
-        if(reminder>max)
+        if(remainder>max)
         {
-            max = reminder;
+            max = remainder;
         }
         num = num / 10;
     }
