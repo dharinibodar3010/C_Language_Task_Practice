@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+//Que:Write a C program to print numbers from 1 to 10 using all three types of loops
+(while, for, do-while).
+
 int main()
 {
     int i;
