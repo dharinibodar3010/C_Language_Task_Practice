@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-//call by value
+//call by reference 
 void swap(int *x, int *y);
 
 int main()    
