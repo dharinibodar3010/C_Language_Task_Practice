@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
+
+// if if condition - execute all condition
 void main()
 {
     int marks = 56;
