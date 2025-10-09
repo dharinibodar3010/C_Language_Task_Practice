@@ -12,7 +12,7 @@ int main()
         }
         for(j=0; j<=i; j++)
         {
-            printf("%c ", 'A'+i);
+            printf("%c ", 'A'+i);  // inverted abcd pyramid
         }
         
         printf("\n");
