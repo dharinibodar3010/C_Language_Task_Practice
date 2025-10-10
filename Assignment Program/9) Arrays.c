@@ -1,8 +1,8 @@
 #include<stdio.h>
 
-//Que:Write a C program that stores 5 integers in a one-dimensional array and prints
+/*Que:Write a C program that stores 5 integers in a one-dimensional array and prints
 them. Extend this to handle a two-dimensional array (3x3 matrix) and
-calculate the sum of all elements.
+calculate the sum of all elements.*/
 
 int main()
 {
