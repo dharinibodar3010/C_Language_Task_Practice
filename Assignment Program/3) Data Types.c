@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-//Que:Write a C program that includes variables, constants, and comments. Declare
-and use different data types (int, char, float) and display their values.
+/*Que:Write a C program that includes variables, constants, and comments. Declare
+and use different data types (int, char, float) and display their values.*/
 
 int main()
 {
