@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-//Que:Write a C program that calculates the factorial of a number using a function.
-Include function declaration, definition, and call.
+/*Que:Write a C program that calculates the factorial of a number using a function.
+Include function declaration, definition, and call.*/
 
 //Function Declaration
 int factorial(int n);
