@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<string.h>
 
-//Que:Write a C program that takes two strings from the user and concatenates them
+/*Que:Write a C program that takes two strings from the user and concatenates them
 using strcat(). Display the concatenated string and its length using
-strlen().
+strlen().*/
 
 int main()
 {
