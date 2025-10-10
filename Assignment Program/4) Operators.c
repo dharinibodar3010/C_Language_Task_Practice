@@ -1,7 +1,7 @@
  #include<stdio.h>
 
-//Que:Write a C program that accepts two integers from the user and performs
-arithmetic, relational, and logical operations on them. Display the results.
+/*Que:Write a C program that accepts two integers from the user and performs
+arithmetic, relational, and logical operations on them. Display the results.*/
 
  int main()
  {
