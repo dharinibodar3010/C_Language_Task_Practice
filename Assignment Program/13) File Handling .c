@@ -29,7 +29,7 @@ int main()
     
     printf("\nContents of the file: \n");
     
-    //step 6: Read and display nContents
+    //step 6: Read and display Contents
     while(fgets(str, sizeof(str), fp) != NULL)
     {
         printf("%s", str);
