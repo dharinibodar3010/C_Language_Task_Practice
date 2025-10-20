@@ -25,4 +25,5 @@ int main()
     printf("Reverse of %d = %d\n", original, reverse);
 
     return 0;
+
 }
