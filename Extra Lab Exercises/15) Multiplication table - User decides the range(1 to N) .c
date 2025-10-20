@@ -5,7 +5,7 @@ Que: Write a C program that takes an integer input from the user and prints its 
 table using a for loop.
 Challenge: Allow the user to input the range of the multiplication table (e.g., from 1 to N).*/
 
-//Part 2(Challenge): User decides the range(1 to N)
+//User decides the range(1 to N)
 int main()
 {
     int num, N, i;
