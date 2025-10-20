@@ -1,14 +1,16 @@
+#include <stdio.h>
+#include <math.h> // Required for the pow() function
+
 /*Lab Challenge 1: Armstrong Number
 Write a C program that checks whether a given number is an Armstrong number or not (e.g.,
 153 = 1^3 + 5^3 + 3^3).
-Challenge: Write a program to find all Armstrong numbers between 1 and 1000.*/
-
-#include <stdio.h>
+Challenge 2: Write a program to find all Armstrong numbers between 1 and 1000.*/
 
 int main() 
 {
     
-//Challenge 1: check if a Number is an Armstrong Number    
+//Challenge 1: check if a Number is an Armstrong Number  
+    
     int num, original, remainder, sum = 0;
 
     printf("Enter a number: ");
@@ -29,4 +31,5 @@ int main()
         printf("%d is not an Armstrong number.\n", original);
    
     return 0;
+
 }
