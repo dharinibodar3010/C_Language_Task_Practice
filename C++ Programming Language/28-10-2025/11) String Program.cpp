@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+//Program: String Program
+
 int main() {
     string str1, str2, str3;
 
@@ -32,4 +34,5 @@ int main() {
         cout << "\nSecond string is greater.";
 
     return 0;
+
 }
