@@ -6,7 +6,7 @@ class and object for the same task.
 
 o Objective: Highlight the difference between POP and OOP approaches.*/
 
-// 1) Procedural Programming (POP) approach
+// Approach : 1) Procedural Programming (POP) approach
 
 #include<iostream>
 using namespace std;
@@ -41,4 +41,5 @@ int main()
   "Data and functions are separate.\n" << endl;
   
   return 0;
+
 }
