@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Define and call a method (member function) of a class
 class student
 {
     //method
