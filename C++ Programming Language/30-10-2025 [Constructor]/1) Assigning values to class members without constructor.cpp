@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// Assigning values to class members without constructor
+
 class student
 {
     public:
