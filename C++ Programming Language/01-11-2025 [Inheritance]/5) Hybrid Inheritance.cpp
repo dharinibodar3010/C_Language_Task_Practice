@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// hybrid inheritance
+// Hybrid Inheritance
 
 // Base class A
 class A
@@ -54,4 +54,5 @@ int main()
     d1.d();
 
     return 0;
+
 }
