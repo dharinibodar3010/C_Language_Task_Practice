@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// single inheritance 
+// Single Inheritance 
 
 class A
 {
