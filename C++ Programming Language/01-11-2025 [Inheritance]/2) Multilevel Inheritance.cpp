@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// multilevel inheritance
+// Multilevel Inheritance
 
 class A
 {
