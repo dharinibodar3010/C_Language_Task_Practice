@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// multiple inheritance
+// Multiple Inheritance
 
 // base class A
 class A 
