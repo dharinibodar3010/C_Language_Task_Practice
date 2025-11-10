@@ -44,7 +44,7 @@ class student : public person
     
     void showstudentData()
     {
-        cout << "--- Student Information ---" << endl;
+        cout << "/n--- Student Information ---" << endl;
         showData();
         cout << "Roll No: " << rollNo << endl;
     }
@@ -65,7 +65,7 @@ class teacher : public person
     
     void showteacherData()
     {
-        cout << "--- Teacher Information ---" << endl;
+        cout << "/n--- Teacher Information ---" << endl;
         showData();
         cout << "Subject: " << subject << endl;
     }
