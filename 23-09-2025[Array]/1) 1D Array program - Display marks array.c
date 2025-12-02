@@ -17,7 +17,7 @@ int main()
     
     for(int i=0; i<5; i++)
     {
-        printf("\n %d", marks[i]);
+        printf("\n marks[%d] = %d", i, marks[i]);
     }
 
     return 0;
