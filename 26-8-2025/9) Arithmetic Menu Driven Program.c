@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
     int choice;
-    float a, b, result;
+    int a, b, result;
     
     //Menu display
     printf("\n----- Calculator ----\n");
@@ -30,7 +30,7 @@ int main() {
     
     case 3:
         result = a * b;
-        printf("\n Result = %f", result);
+        printf("\n Result = %d", result);
         break;
     
     case 4:
